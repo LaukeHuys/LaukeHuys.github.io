@@ -18,6 +18,9 @@
 #ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
+#ext_menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #header3-22 H3 {
   text-align: center;
 }
@@ -30,11 +33,17 @@
 #ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
+#ext_menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
 #ext_menu-8 .mbr-brand__name {
   font-size: 16px;
 }
 #ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
+}
+#ext_menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #header3-13 H3 {
   text-align: center;
@@ -45,7 +54,10 @@
 #ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#header3-18 H3 {
+#ext_menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header3-31 H3 {
   text-align: center;
 }
 #ext_menu-8 .mbr-brand__name {
@@ -53,6 +65,9 @@
 }
 #ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
+}
+#ext_menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
 }
 #header3-16 H3 {
   text-align: center;
@@ -72,6 +87,24 @@
 #ext_menu-8.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#header3-31 H3 {
+#ext_menu-8 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header3-18 H3 {
   text-align: center;
+}
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-0 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header3-3 H3 {
+  text-align: center;
+}
+#video2-6 I {
+  font-size: 16px;
 }
