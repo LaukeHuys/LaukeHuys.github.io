@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Drawings.html",
+    "currentPage": "About.html",
     "versionFirst": "2.8.7",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -8,7 +8,7 @@
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74362046-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "theme": {},
     "publishType": "github",
-    "uniqCompNum": 7
+    "uniqCompNum": 8
   },
   "pages": {
     "index.html": {
@@ -909,7 +909,7 @@
             }
           },
           "_anchor": "content1-34",
-          "text": "<p>All works and pictures are produced by Laurens Huysmans.</p>"
+          "text": "<p>All works and pictures are produced by Lauke Huys.</p>"
         }
       ]
     },
@@ -973,7 +973,7 @@
         {
           "_name": "content1",
           "_anchor": "content1-19",
-          "text": "<p>Lauke Huys (born, 11/02/1993, Maricà) is a Belgian visual artist who is now studying Photography in Antwerp after finishing Drawing &amp; Graphics at the Luca School of Arts institute at Ghent. Inspired by the ideals of the Cobra movement he works from feelings whether they are hidden deep inside or visible for the naked eye. He's always searching for new ways to express not only what's on his mind, but a hidden truth in the minds of the many.</p>"
+          "text": "<p>Lauke Huys (born, 11/02/1993, Maricà) is a Belgian visual artist who is now studying Photography in Antwerp after finishing Drawing &amp; Graphics at the Luca School of Arts institute at Ghent.</p>"
         }
       ]
     },
