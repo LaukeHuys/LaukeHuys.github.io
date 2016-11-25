@@ -8,7 +8,7 @@
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74362046-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "theme": {},
     "publishType": "github",
-    "uniqCompNum": 8
+    "uniqCompNum": 11
   },
   "pages": {
     "index.html": {
@@ -974,6 +974,31 @@
           "_name": "content1",
           "_anchor": "content1-19",
           "text": "<p>Lauke Huys (born, 11/02/1993, Maricà) is a Belgian visual artist who is now studying Photography in Antwerp after finishing Drawing &amp; Graphics at the Luca School of Arts institute at Ghent.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "title": "Curiculum Vitae",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-a",
+          "text": "<p>2014 Broei.On - Turnhout Belgium</p><p><br></p>"
         }
       ]
     },
