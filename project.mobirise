@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Portfolio.html",
+    "currentPage": "index.html",
     "versionFirst": "2.8.7",
     "versionPublish": "3.9.2",
     "name": "My Site",
@@ -18,7 +18,8 @@
         "meta_descr": "Free Responsive Website Maker. Create awesome mobile-first websites. Easy and fast - No coding!",
         "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
         "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -98,7 +99,9 @@
       ]
     },
     "Paintings.html": {
-      "settings": {},
+      "settings": {
+        "order": 5
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -280,7 +283,9 @@
       ]
     },
     "Contact.html": {
-      "settings": {},
+      "settings": {
+        "order": 8
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -372,7 +377,8 @@
     },
     "Portfolio.html": {
       "settings": {
-        "title": "Portofolio"
+        "title": "Portofolio",
+        "order": 3
       },
       "components": [
         {
@@ -510,7 +516,9 @@
       ]
     },
     "Photography.html": {
-      "settings": {},
+      "settings": {
+        "order": 6
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -608,7 +616,9 @@
       ]
     },
     "Drawings.html": {
-      "settings": {},
+      "settings": {
+        "order": 4
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -914,7 +924,9 @@
       ]
     },
     "About.html": {
-      "settings": {},
+      "settings": {
+        "order": 2
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -980,17 +992,17 @@
             "Theme"
           ],
           "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "header3-9",
           "title": "Curiculum Vitae",
           "_params": {
             "showMeta": false
           },
-          "meta": "By John Smith posted July 30, 2015",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015"
         },
         {
           "_tags": [
@@ -1003,7 +1015,9 @@
       ]
     },
     "CONCEPT.html": {
-      "settings": {},
+      "settings": {
+        "order": 7
+      },
       "components": [
         {
           "_inherit": "menu",
